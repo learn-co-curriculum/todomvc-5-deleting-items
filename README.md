@@ -12,7 +12,7 @@
 
 This video is meant to be a review of the second set of topics in Ruby on Rails.
 
-There will be more vidoes building out the rest of TODOMVC.
+There will be more videos building out the rest of TODOMVC.
 
 ## Code
 
